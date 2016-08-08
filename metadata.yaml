@@ -1,0 +1,48 @@
+_repo: The-Humour-of-Homer-and-Other-Essays_12651
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Jones, Henry Festing
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '1080'
+    url: http://www.gutenberg.org/2009/agents/1080
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+  editor:
+    agent_name: Streatfeild, R. A. (Richard Alexander)
+    alias: Streatfeild, Richard Alexander
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6569'
+    url: http://www.gutenberg.org/2009/agents/6569
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Homer -- Humor'
+- !lcsh 'Essays'
+- !lcc 'PR'
+- !lcsh 'Greek wit and humor -- History and criticism'
+- GITenberg
+tableOfContents: 'Sketch of the life of Samuel Butler, author of Erewhon -- The humour
+  of Homer -- Quis desiderio...? -- Ramblings in Cheapside -- The aunt, the nieces,
+  and the dog -- How to make the best of life -- The sanctuary of Montrigone -- A
+  medieval girl school -- Art in the valley of Saas -- Thought and language -- The
+  deadlock in Darwinism: part I -- The deadlock in Darwinism: part II -- The deadlock
+  in Darwinism: part III.'
+title: The Humour of Homer and Other Essays
+url: http://www.gutenberg.org/ebooks/12651
